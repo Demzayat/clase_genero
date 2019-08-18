@@ -1,0 +1,16 @@
+.large {  font-size: 23px;}
+
+.small {  font-size: 15px;}
+
+
+body{ font-size: 120%}
+
+.transparent{ opacity: 0.2}
+
+.a {color: #88398a;}
+.b {color: #d71dbf;}
+
+h1, h2, h3 {
+  font-weight: normal;
+  color: #562457;
+}
