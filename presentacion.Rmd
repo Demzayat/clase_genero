@@ -13,6 +13,7 @@ output:
       autoplay: false
       highlightLines: true
       countIncrementalSlides: false
+    self-contained: true
 ---
 class: middle
 
