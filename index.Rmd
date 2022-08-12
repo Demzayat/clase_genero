@@ -1,0 +1,282 @@
+---
+title: "Módulo Género y Derecho Constitucional"
+subtitle: .b[Derecho Antisdiscriminatorio]
+author: "Demián Zayat"
+date: "16 de agosto de 2022"
+output:
+  xaringan::moon_reader:
+    lib_dir: libs
+    css: ["default", "default-fonts", "my-theme.css"]
+    nature:
+      beforeInit: "macros.js"
+    self-contained: true
+---
+class: middle
+
+## Derecho Antidiscriminatorio como parte del Principio a la Igualdad
+
+En la década del '70 la Corte Suprema de Estados Unidos realizó un gran desarrollo del principio de igualdad, estableciendo distintas teorías para distintos casos, con sus propios tests y requisitos.
+
+Esto se dio en el contexto del movimiento de derechos civiles, y de protección de la discriminación contra afroamericanos. luego de la sanción de la ley de derechos civiles de 1964.
+---
+class: middle, center
+# Igualdad como .a[_No Discriminación_]
+# vs.
+# Igualdad como .b[_No Sometimiento_]
+
+---
+class: center
+## Esquema Antidiscriminación
+
+
+```{r, message=FALSE, echo=FALSE, fig.align='center'}
+DiagrammeR::DiagrammeR("graph LR; 
+ A(Igualdad)-->B(No Discriminación); 
+ A-->C[No Sometimiento];
+ B-->G[Razonabilidad];
+ B-->D;
+ C-->D[Cat. Sospechosa];
+ C-->E[Trato Desigual];
+ C-->F[Impacto Desprop];")
+```
+
+---
+class: inverse, bottom, center
+
+background-image: url(https://www.supremecourt.gov/about/images/CourtBuilding.jpg)
+background-size: contain 
+
+# _Jurisprudencia  de Estados Unidos_
+---
+class: middle
+
+## Casos Antidiscriminación
+
+- Categorías Sospechosas &rarr; Korematsu (1944), Brown (1954) 
+
+- Trato Desigual &rarr;  McDonnell Douglas v. Green (1973) 
+
+-  Impacto Desproporcionado &rarr; Griggs v. Duke Power Co. (1971) 
+
+---
+# 1. Categorías Sospechosas 
+
+- Korematsu (1944)
+- Brown v. Board of Education (1954)
+
+Reconoce la existencia de clases: 
+  - Nacionalidad
+  
+
+  - Raza
+
+
+  - .b[¿Género?]
+
+### ¿¿Es realmente igualdad como _no sometimiento_??
+---
+
+## Acciones Afirmativas
+
+### Regents of University v. Bakke (1978) (raza)
+Que estandar utilizar? Escrutiño estricto?
+
+- Razonabilidad más esctricta
+
+  - Ajuste perfecto entre medios y fines
+
+  - Fines esenciales (no meramente convenientes)
+
+  - No existe otra medida menos discriminatoria
+
+- Voto de Powell. Sí, pero No.
+
+### Gutter v. Bollinger (2003)
+
+### Fisher v. Texas (2016)
+---
+
+# 2. Trato Desigual
+
+## Mc Donnell Douglas v. Green (1973)
+
+- _Prima facie_ case:
+  - (i) es miembro de una clase protegida; 
+  - (ii) se postuló y estaba calificado para el cargo;
+  - (iii) fue rechazado; 
+  - (iv) el cargo aún estaba vacante
+
+- Inversion de Carga de la Prueba &rarr; El demandado deberá probar una razón objetiva y no discriminatoria
+
+- La actora podrá probar que la justificación es un _mero pretexto_.
+
+---
+# 3. Impacto Desproporcionado
+
+## Griggs v. Duke Power Co (1971)
+- _Prima facie_ case: 
+  - Politica **neutra** que
+  - impacta desproporcionadamente
+  - en alguna minoría
+  
+ (Prueba estadística puede ser muy relevante)
+
+- Justificación (demandado): 
+  - Necesidad del negocio/estado,
+  - En relación con el puesto de trabajo
+  
+- Actora: Existía una alternativa menos discriminatoria, con efecto menos perjudicial para el grupo.
+
+---
+class: inverse, bottom, center
+
+background-image: url(https://www.welcomeargentina.com/paseos/palacio_de_justicia/palacio-justicia-1.jpg)
+background-size: contain 
+
+
+# _Jurisprudencia  Argentina_
+---
+# Categorías Sospechosas
+
+-  Voto de Petracchi y Bacque en "Repetto" (1988) &rarr; Nacionalidad
+
+--
+
+- Mayoría en "Hooft" (2004) &rarr; Nacionalidad
+
+--
+
+- "Gottschau" (2006) &rarr; Nacionalidad
+
+--
+
+- Voto de Petracchi en "Gonzalez de Delgado" &rarr; Género
+
+--
+
+¿¿Categoría sospechosa como _no discriminación_ o como _no sometimiento_??
+
+(Ciudad futura?)
+---
+# Trato Desigual
+
+ ## Fallo _"Pellicori"_ (2011)
+ Problemas de prueba, entonces
+ 
+1. Actora: Acreditación del caso _prima facie_
+
+1. Demandado: motivo razonable y objetivo ajeno a la discriminación
+
+1. Analisis bajo la sana crítica
+
+## .a.center[¿y los hechos??]
+
+---
+# Trato Desigual
+
+## Fallo _"Sisnero"_ (2014)
+
+Ahora con relato de hechos y desarrollo del test
+
+1. Caso _prima facie_ de discriminación (actora):
+  - Nomina de empleados (estadísticas);
+  - Aún después de la postulación de Sisnero, cero mujeres
+
+1. Justificación objetiva y no discriminatoria (demandada)
+  Pero
+  - Sintomas discriminatorios de la sociedad;
+  - Comentarios discriminatorios del demandado
+  
+---
+# Trato Desigual
+
+## Fallo _"Sisnero"_ (2014)
+
+> 6- En efecto, de las constancias de la causa resulta que se acreditaron diversos hechos conducentes y suficientes para configurar un caso prima facie encuadrable en una situación dis- criminatoria. Así, las diversas pruebas enumeradas en el punto IV del dictamen de la Procuración General y, en particular, las nóminas de empleados incorporadas al expediente y el informe de la Autoridad Metropolitana de Transporte, de los que se desprende que en las empresas demandadas no existen mujeres contratadas y que dicha práctica se mantuvo aun después de las sucesivas postulaciones y reclamos por parte de Sisnero.
+
+---
+# Trato Desigual
+
+## Fallo _"Sisnero"_ (2014)
+
+> 6-(cont) A su vez, las dogmáticas explicaciones esbozadas por las empresas resultan inadmisibles para destruir la presunción de que las demandadas han incurrido en conductas y prácticas discriminatorias contra las mujeres en general y contra Sisnero, en particular. Es que este tipo de defensas -que, en definitiva, se limitan a negar la intención discriminatoria- no pueden ser calificados como un motivo objetivo y razonable.
+
+---
+# Impacto Desproporcionado
+
+- _Norma neutral que **prima facie** genere un impacto desmedido en los miembros de un grupo_
+
+- _el Estado debe justificar **la necesidad** de los efectos desproporcionados_
+
+## Fallo _"Castillo"_ (2017)
+
+Educación religiosa en las escuelas de Salta, para todas las religiones que lo soliciten.
+
+---
+# Impacto Desproporcionado
+
+## Fallo _"Castillo"_ (2017)
+> 25- La aplicación de este criterio, corresponde en primer término afirmar que el inciso (ñ) del art. 27 de la ley de educación provincial es en "apariencia" neutral porque, en principio, de su letra no surge preferencia de ningún culto respecto de otro. Sin embargo, resulta incuestionable que el contexto social en el que se aplica la norma se caracteriza por una preponderancia de la población que profesa la religión católica. También se advierte de las constancias de la causa que prima facie la aplicación de la norma ha causado un efecto desproporcionado hacia grupos religiosos minoritarios. Salvo, tal vez, respecto de la Iglesia Evangelista, ha quedado claro en la audiencia pública que ningún otro credo que el mayoritario se enseña en las aulas; también se evidenció la falta de alternativas para los no creyentes.
+
+---
+# Impacto Desproporcionado
+
+## Fallo _"Castillo"_ (2017)
+> 26- Que de lo expuesto surge claramente que, dentro del sistema educativo público de la Provincia de Salta, existen patrones sistemáticos de trato desigualitario hacia grupos religiosos minoritarios y hacia los no creyentes.
+
+---
+# Jurisprudencia reciente
+
+## Fontana (2021)
+
+Hechos: Despido de una empleada con actividad sindical, a lo que la denunciada alega la crisis económica como motivo del despido.
+
+Corte Suprema: la Cámara no analizó seriamente la defensa de la crisis económica alegada por la empresa:
+
+Mayoría: "Corresponderá al demandado... la prueba de que el trato dispensado no obedeció al motivo discriminatorio reprochado. _Bastará que demuestre que el distracto se dispuso por cualquier otro motivo, de la naturaleza que fuere_. La única limitación es que la restricción no responda a los móviles discriminatorios proscriptos."
+
+Maqueda: "Corresponderá al demandado... la prueba de que éste tuvo como causa _una motivación objetiva y razonable ajena a toda discriminación_"
+
+---
+# Jurisprudencia reciente
+
+## Fontana (2021)
+
+
+ .b[¿Qué estándar aplicar?]
+
+  - Actora: &quest;
+
+
+  - Demandada: &quest;
+  
+  
+  - Actora: ?
+
+---
+# Jurisprudencia reciente
+
+## Costa Ludueña (2021)
+
+Migrante privado de libertad que no obtiene el DNI y no puede graduarse de la Facultad de Derecho de la UBA.
+
+Mayoría: "El hecho de que el peticionario no pueda regularizar su situación migratoria por la particular situación penal en la que se encuentra y por ende se vea impedido de tramitar el DNI requerido por la demandada, no torna arbitraria o irrazonable una reglamentación que se muestra homogénea en sus exigencias para todas las personas que procuran acceder al programa implementado por la universidad..."
+
+---
+# Jurisprudencia reciente
+
+## Costa Ludueña (2021)
+
+
+ .b[¿Qué estándar aplicar?]
+
+  - Actora: &quest;
+
+
+  - Demandada: &quest;
+  
+  
+  - Actora: ?
+  
+
+
