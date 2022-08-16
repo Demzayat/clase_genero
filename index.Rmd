@@ -136,6 +136,29 @@ background-size: contain
 
 # _Jurisprudencia  Argentina_
 ---
+# Estandar de .fux[Mera Razonabilidad]
+
+--
+
+1. Identificar el **criterio** real de la clasificación, más allá del establecido en la norma.
+
+--
+
+1. Identificar el **objetivo** de la norma y determinar si es legítimo y permisible
+
+--
+
+1. **Ajuste** entre el criterio utilizado y el objetivo fijado. Puede ser 
+   * Sobreinclusivo: abarca más supuestos de los necesarios
+   * Subinclusivo: abarca menos supuestos de los necesarios
+   * Ambos a la vez
+
+--
+
+.small[¿Cuán "desajustado" puede ser el criterio? Tolera un cierto desajuste, con deferencia a quien hizo la clasificación.]
+
+---
+
 # Categorías Sospechosas
 
 -  Voto de Petracchi y Bacque en "Repetto" (1988) &rarr; Nacionalidad
