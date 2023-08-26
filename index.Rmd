@@ -2,7 +2,7 @@
 title: "Módulo Género y Derecho Constitucional"
 subtitle: .b[Derecho Antisdiscriminatorio]
 author: "Demián Zayat"
-date: "16 de agosto de 2022"
+date: "29 de agosto de 2023"
 output:
   xaringan::moon_reader:
     lib_dir: libs
@@ -13,22 +13,25 @@ output:
 ---
 class: middle
 
-## Derecho Antidiscriminatorio como parte del Principio a la Igualdad
+## ¿Qué es el derecho Antidiscriminatorio?
 
-En la década del '70 la Corte Suprema de Estados Unidos realizó un gran desarrollo del principio de igualdad, estableciendo distintas teorías para distintos casos, con sus propios tests y requisitos.
+En la década del '70 la Corte Suprema de Estados Unidos realizó un gran desarrollo del principio de igualdad, estableciendo distintas teorías para distintos supuestos, con sus propios tests y requisitos.
 
-Esto se dio en el contexto del movimiento de derechos civiles, y de protección de la discriminación contra afroamericanos. luego de la sanción de la ley de derechos civiles de 1964.
+Esto se dio en el contexto del movimiento de derechos civiles, y de protección de la discriminación contra afroamericanos, luego de la sanción de la ley de derechos civiles de 1964.
+
 ---
 class: middle, center
 # Igualdad como .a[_No Discriminación_]
 # vs.
 # Igualdad como .b[_No Sometimiento_]
 
+
+_esto lo vieron con Saba_
 ---
+
 class: center
 ## Esquema Antidiscriminación
-
-
+### Doctrinas del D. Antidisccriminatorio
 ```{r, message=FALSE, echo=FALSE, fig.align='center'}
 DiagrammeR::DiagrammeR("graph LR; 
  A(Igualdad)-->B(No Discriminación); 
@@ -48,11 +51,13 @@ background-size: contain
 
 # _Jurisprudencia  de Estados Unidos_
 ---
-class: middle
 
-## Casos Antidiscriminación
+## Casos:
 
-- Categorías Sospechosas &rarr; Korematsu (1944), Brown (1954) 
+- Categorías Sospechosas
+
+    - Escrutiño Estricto &rarr; Korematsu (1944), Brown (1954) (raza, origen nacional, religión, ciudadanía)
+    - Escrutiño intermedio &rarr; Craig (1966), Virginia Militar Institute (1996) (genero)
 
 - Trato Desigual &rarr;  McDonnell Douglas v. Green (1973) 
 
@@ -62,16 +67,13 @@ class: middle
 # 1. Categorías Sospechosas 
 
 - Korematsu (1944)
+
+     Uno de los peores fallos de la Historia de la Corte
 - Brown v. Board of Education (1954)
 
-Reconoce la existencia de clases: 
-  - Nacionalidad
-  
+     Uno de los mejors fallos de la Historia de la Corte 
 
-  - Raza
-
-
-  - .b[¿Género?]
+Categorías de Nacionalidad, Raza, Religión...
 
 ### ¿¿Es realmente igualdad como _no sometimiento_??
 ---
@@ -94,11 +96,20 @@ Que estandar utilizar? Escrutiño estricto?
 ### Gutter v. Bollinger (2003)
 
 ### Fisher v. Texas (2016)
+
+### Students for Fair Admission (2023)
 ---
 
-# 2. Trato Desigual
+## 2. Trato Desigual
 
-## Mc Donnell Douglas v. Green (1973)
+### Mc Donnell Douglas v. Green (1973)
+
+<iframe src="https://drive.google.com/file/d/1nkfPElCGGJaU3YIPCN5dR3AWlqiDPdWb/preview" width="640" height="480" allow="autoplay"></iframe>
+
+---
+## 2. Trato Desigual
+
+### Mc Donnell Douglas v. Green (1973)
 
 - _Prima facie_ case:
   - (i) es miembro de una clase protegida; 
@@ -111,9 +122,18 @@ Que estandar utilizar? Escrutiño estricto?
 - La actora podrá probar que la justificación es un _mero pretexto_.
 
 ---
-# 3. Impacto Desproporcionado
+## 3. Impacto Desproporcionado
 
-## Griggs v. Duke Power Co (1971)
+### Griggs v. Duke Power Co (1971)
+
+<iframe src="https://drive.google.com/file/d/1HZzAUDnM0NXNH8mD4cULhhrLqWIbVPP0/preview" width="640" height="480" allow="autoplay"></iframe>
+
+---
+## 3. Impacto Desproporcionado
+
+### Griggs v. Duke Power Co (1971)
+
+
 - _Prima facie_ case: 
   - Politica **neutra** que
   - impacta desproporcionadamente
