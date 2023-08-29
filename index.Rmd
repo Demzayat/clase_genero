@@ -215,9 +215,9 @@ background-size: contain
 ## .a.center[¿y los hechos??]
 
 ---
-# Trato Desigual
+## Trato Desigual
 
-## Fallo _"Sisnero"_ (2014)
+### Fallo _"Sisnero"_ (2014)
 
 <iframe src="https://drive.google.com/file/d/1Lbw4tK5LU8J4xZs0igV6Qkff1z3LP7MZ/preview" width="640" height="480" allow="autoplay"></iframe>
 ---
@@ -263,9 +263,9 @@ Ahora con relato de hechos y desarrollo del test
 Educación religiosa en las escuelas de Salta, para todas las religiones que lo soliciten.
 
 ---
-# Impacto Desproporcionado
+## Impacto Desproporcionado
 
-## Fallo _"Castillo"_ (2017)
+### Fallo _"Castillo"_ (2017)
 
 <iframe src="https://drive.google.com/file/d/1V93vkr8E6h1RMIHXtT1DpYQRoB7HpIcL/preview" width="640" height="480" allow="autoplay"></iframe>
 ---
